@@ -59,6 +59,23 @@
 * Conclusão
 * Parabéns
 
+# Notas das aulas:
+
+* Introdução: Projeto e subindo servidor  
+    Rode no seu terminal:
+    ```sh
+    sudo docker-compose run web django-admin.py startproject alurareceita .
+    ```
+* Introdução: Servidor e app de receita  
+    Entre no projeto:  
+    ```sh
+    docker-compose run --rm web bash
+    ```
+    E rode:
+    ```sh
+    python manage.py startapp receitas
+    ```
+
 ## Sobre o projeto:
 
 ### Permissões de arquivos:
