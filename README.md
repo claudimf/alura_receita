@@ -2,9 +2,11 @@
 
 👋 Olá, Seja Bem-vindo(a) ao 'Alura Receita'.
 
-# Projeto 'Alura Receita' do curso ['Introdução ao Django 3: Modelo, Rotas e Views'](https://cursos.alura.com.br/course/fundamentos-django-2):
+# Projeto 'Alura Receita' dos cursos ['Introdução ao Django 3: Modelo, Rotas e Views'](https://cursos.alura.com.br/course/fundamentos-django-2) e ['Integração de modelos no Django 3: Filtros, buscas e admin'](https://cursos.alura.com.br/course/integracao-modelos-django-2):
 
 # Aulas
+
+## Curso ['Introdução ao Django 3: Modelo, Rotas e Views'](https://cursos.alura.com.br/course/fundamentos-django-2)
 
 ###  Introdução  
 * Saudações e Ambiente  
@@ -17,7 +19,7 @@
 * Para saber mais: Django  
 * O que aprendemos?  
 
-## Template, rotas e views
+### Template, rotas e views
 * Criando a pasta template
 * Preparando o ambiente
 * Arquivos estáticos
@@ -28,7 +30,7 @@
 * Para saber mais: Templates
 * O que aprendemos?
 
-## Links, extends e partials
+### Links, extends e partials
 * Links, urls e views
 * Estendendo html
 * Partials
@@ -36,7 +38,7 @@
 * Extends, include e partials
 * O que aprendemos?
 
-## Modelo e banco de dados
+### Modelo e banco de dados
 * Nomes de receitas dinâmicas
 * Banco de dados
 * Psycopg2
@@ -48,13 +50,57 @@
 * Para saber mais: Models
 * O que aprendemos?
 
-## Admin, parâmetros e receitas
+### Admin, parâmetros e receitas
 * Django Admin
 * Exibindo dados dos banco
 * Parâmetro na url
 * Faça como eu fiz na aula
 * Ajudando alguém
 * Para saber mais
+* O que aprendemos?
+* Conclusão
+* Parabéns
+
+## Curso ['Integração de modelos no Django 3: Filtros, buscas e admin'](https://cursos.alura.com.br/course/integracao-modelos-django-2)
+
+## Ajustando o Django admin
+* Introdução
+* Saudações e Ambiente
+* Listando receitas por nome
+* Busca, Filtros e paginação
+* Faça como eu fiz na aula
+* Melhorando o admin
+* O que aprendemos?
+
+## Quem postou a receita?
+* Criando um modelo de pessoas
+* Integrando modelos
+* Exibindo nome das pessoas
+* Faça como eu fiz na aula
+* __str__
+* O que aprendemos?
+
+## Filtros e categorias
+* Filtro receitas publicadas
+* Ordenação e edição no admin
+* Foto para cada receita
+* Faça como eu fiz na aula
+* Configurações do Admin
+* O que aprendemos?
+
+## Buscando receitas
+* Exibindo a foto
+* Criando a página de busca
+* Resultado da busca
+* Faça como eu fiz na aula
+* Foto no banco de dados
+* O que aprendemos?
+
+## Autorização e melhorando o código
+* Autorização e usuários
+* Partial e refatoração
+* Faça como eu fiz na aula
+* Template tags
 * O que aprendemos?
 * Conclusão
 * Parabéns
