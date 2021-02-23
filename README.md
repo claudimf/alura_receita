@@ -76,6 +76,12 @@
     python manage.py startapp receitas
     ```
 
+* Django Admin
+    Criar um 'super user':
+    ```sh
+    python manage.py createsuperuser
+    ```
+
 ## Sobre o projeto:
 
 ### Permissões de arquivos:
