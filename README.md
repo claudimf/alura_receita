@@ -141,3 +141,5 @@ docker-compose down && docker-compose up
 # Referências utilizadas
 
 [1° Como criar uma aplicação Django com Docker](https://github.com/claudimf/django-docker)
+
+[2° Criar um projeto em Django](https://github.com/claudimf/try_django)
