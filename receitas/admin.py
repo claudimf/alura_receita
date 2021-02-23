@@ -9,4 +9,5 @@ class ListandoReceitas(admin.ModelAdmin):
     list_filter = ('categoria',)
     list_per_page = 2
 
+
 admin.site.register(Receita, ListandoReceitas)
