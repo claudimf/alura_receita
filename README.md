@@ -10,149 +10,209 @@
 
 ## Curso ['Introdução ao Django 3: Modelo, Rotas e Views'](https://cursos.alura.com.br/course/fundamentos-django-2)
 
-###  Introdução  
-* Saudações e Ambiente  
-* Django e venv  
-* Projeto e subindo servidor  
-* Servidor e app de receita  
-* Faça como eu fiz na aula  
-* Benefícios da venv  
-* Projeto e app  
-* Para saber mais: Django  
-* O que aprendemos?  
+<details>
+    <summary>Introdução</summary>
+    <ul>
+        <li>Saudações e Ambiente</li>
+        <li>Django e venv</li>
+        <li>Projeto e subindo servidor</li>
+        <li>Servidor e app de receita</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Benefícios da venv</li>
+        <li>Projeto e app</li>
+        <li>Para saber mais: Django</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
 
-### Template, rotas e views
-* Criando a pasta template
-* Preparando o ambiente
-* Arquivos estáticos
-* Carregando estáticos
-* Faça como eu fiz na aula
-* Configurando estáticos
-* {% load static %}
-* Para saber mais: Templates
-* O que aprendemos?
+<details>
+    <summary>Template, rotas e views</summary>
+    <ul>
+        <li>Criando a pasta template</li>
+        <li>Preparando o ambiente</li>
+        <li>Arquivos estáticos</li>
+        <li>Carregando estáticos</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Configurando estáticos</li>
+        <li>{% load static %}</li>
+        <li>Para saber mais: Templates</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
 
-### Links, extends e partials
-* Links, urls e views
-* Estendendo html
-* Partials
-* Faça como eu fiz na aula
-* Extends, include e partials
-* O que aprendemos?
+<details>
+    <summary>Links, extends e partials</summary>
+    <ul>
+        <li>Links, urls e views</li>
+        <li>Estendendo html</li>
+        <li>Partials</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Extends, include e partials</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
 
-### Modelo e banco de dados
-* Nomes de receitas dinâmicas
-* Banco de dados
-* Psycopg2
-* Modelo de receita
-* Faça como eu fiz na aula
-* {{ }} e {% %}
-* Models no Django
-* makemigration e migrate
-* Para saber mais: Models
-* O que aprendemos?
+<details>
+    <summary>Modelo e banco de dados</summary>
+    <ul>
+        <li>Nomes de receitas dinâmicas</li>
+        <li>Banco de dados</li>
+        <li>Psycopg2</li>
+        <li>Modelo de receita</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>{{ }} e {% %}</li>
+        <li>Models no Django</li>
+        <li>makemigration e migrate</li>
+        <li>Para saber mais: Models</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
 
-### Admin, parâmetros e receitas
-* Django Admin
-* Exibindo dados dos banco
-* Parâmetro na url
-* Faça como eu fiz na aula
-* Ajudando alguém
-* Para saber mais
-* O que aprendemos?
-* Conclusão
-* Parabéns
+<details>
+    <summary>Admin, parâmetros e receitas</summary>
+    <ul>
+        <li>Django Admin</li>
+        <li>Exibindo dados dos banco</li>
+        <li>Parâmetro na url</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Ajudando alguém</li>
+        <li>Para saber mais</li>
+        <li>O que aprendemos?</li>
+        <li>Conclusão</li>
+        <li>Parabéns</li>
+    <ul>
+</details>
 
 ## Curso ['Integração de modelos no Django 3: Filtros, buscas e admin'](https://cursos.alura.com.br/course/integracao-modelos-django-2)
 
-## Ajustando o Django admin
-* Introdução
-* Saudações e Ambiente
-* Listando receitas por nome
-* Busca, Filtros e paginação
-* Faça como eu fiz na aula
-* Melhorando o admin
-* O que aprendemos?
+<details>
+    <summary>Ajustando o Django admin</summary>
+    <ul>
+        <li>Introdução</li>
+        <li>Saudações e Ambiente</li>
+        <li>Listando receitas por nome</li>
+        <li>Busca, Filtros e paginação</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Melhorando o admin</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
 
-## Quem postou a receita?
-* Criando um modelo de pessoas
-* Integrando modelos
-* Exibindo nome das pessoas
-* Faça como eu fiz na aula
-* __str__
-* O que aprendemos?
+<details>
+    <summary>Quem postou a receita?</summary>
+    <ul>
+        <li>Criando um modelo de pessoas</li>
+        <li>Integrando modelos</li>
+        <li>Exibindo nome das pessoas</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>__str__</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
 
-## Filtros e categorias
-* Filtro receitas publicadas
-* Ordenação e edição no admin
-* Foto para cada receita
-* Faça como eu fiz na aula
-* Configurações do Admin
-* O que aprendemos?
+<details>
+    <summary>Filtros e categorias</summary>
+    <ul>
+        <li>Filtro receitas publicadas</li>
+        <li>Ordenação e edição no admin</li>
+        <li>Foto para cada receita</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Configurações do Admin</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
 
-## Buscando receitas
-* Exibindo a foto
-* Criando a página de busca
-* Resultado da busca
-* Faça como eu fiz na aula
-* Foto no banco de dados
-* O que aprendemos?
+<details>
+    <summary>Buscando receitas</summary>
+    <ul>
+        <li>Exibindo a foto</li>
+        <li>Criando a página de busca</li>
+        <li>Resultado da busca</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Foto no banco de dados</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
 
-## Autorização e melhorando o código
-* Autorização e usuários
-* Partial e refatoração
-* Faça como eu fiz na aula
-* Template tags
-* O que aprendemos?
-* Conclusão
-* Parabéns
+<details>
+    <summary>Autorização e melhorando o código</summary>
+    <ul>
+        <li>Autorização e usuários</li>
+        <li>Partial e refatoração</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Template tags</li>
+        <li>O que aprendemos?</li>
+        <li>Conclusão</li>
+        <li>Parabéns</li>
+    <ul>
+</details>
 
 ## Curso ['Autenticação no Django 3: formulários, requisições e mensagens'](https://cursos.alura.com.br/course/autenticacao-django-2)
 
-## App de usuários Ver primeiro vídeo
-* Introdução
-* Saudações e ambiente
-* Criando o app de usuários
-* Material do curso
-* Cadastro e login
-* Faça como eu fiz na aula
-* Renderizando as páginas
-* O que aprendemos?
+<details>
+    <summary>App de usuários Ver primeiro vídeo</summary>
+    <ul>
+        <li>Introdução</li>
+        <li>Saudações e ambiente</li>
+        <li>Criando o app de usuários</li>
+        <li>Material do curso</li>
+        <li>Cadastro e login</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Renderizando as páginas</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
 
-## Formulário no Django
-* Requisições no Django
-* CSRF, token e dados
-* Criando usuários
-* Faça como eu fiz na aula
-* Token CSRF
-* O que aprendemos?
+<details>
+    <summary>Formulário no Django</summary>
+    <ul>
+        <li>Requisições no Django</li>
+        <li>CSRF, token e dados</li>
+        <li>Criando usuários</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Token CSRF</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
 
-## Autenticação de usuários
-* Login e dashboard
-* Realizando o Login
-* Material do curso
-* Menu, logout e dashboard
-* Faça como eu fiz na aula
-* Menu dinâmico
-* O que aprendemos?
+<details>
+    <summary>Autenticação de usuários</summary>
+    <ul>
+        <li>Login e dashboard</li>
+        <li>Realizando o Login</li>
+        <li>Material do curso</li>
+        <li>Menu, logout e dashboard</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Menu dinâmico</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
 
-## Formulário de receita
-* Material do curso
-* Criando formulário de receita
-* Dados da requisição
-* Receita de cada usuário
-* Faça como eu fiz na aula
-* Cada receita com seu dono
-* O que aprendemos?
+<details>
+    <summary>Formulário de receita</summary>
+    <ul>
+        <li>Material do curso</li>
+        <li>Criando formulário de receita</li>
+        <li>Dados da requisição</li>
+        <li>Receita de cada usuário</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Cada receita com seu dono</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
 
-## Refatoração e mensagens
-* Mensagens de sucesso e erro
-* Refatoração e ajustes finais
-* Faça como eu fiz na aula
-* Mensagem não exibida
-* O que aprendemos?
-* Conclusão
-* Parabéns
+<details>
+    <summary>Refatoração e mensagens</summary>
+    <ul>
+        <li>Mensagens de sucesso e erro</li>
+        <li>Refatoração e ajustes finais</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Mensagem não exibida</li>
+        <li>O que aprendemos?</li>
+        <li>Conclusão</li>
+        <li>Parabéns</li>
+    <ul>
+</details>
 
 # Notas das aulas:
 
@@ -170,7 +230,6 @@
     ```sh
     python manage.py startapp receitas
     ```
-
 * Django Admin
     Criar um 'super user':
     ```sh
