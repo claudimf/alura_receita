@@ -2,11 +2,11 @@ from django.shortcuts import render, get_object_or_404
 
 
 def cadastro(request):
-    pass
+    return render(request, 'usuarios/cadastro.html')
 
 
 def login(request):
-    pass
+    return render(request, 'usuarios/login.html')
 
 
 def dashboard(request):
