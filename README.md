@@ -4,6 +4,8 @@
 
 # Projeto 'Alura Receita' dos cursos ['Introdução ao Django 3: Modelo, Rotas e Views'](https://cursos.alura.com.br/course/fundamentos-django-2) e ['Integração de modelos no Django 3: Filtros, buscas e admin'](https://cursos.alura.com.br/course/integracao-modelos-django-2):
 
+![homepage](https://raw.githubusercontent.com/claudimf/alura_receita/main/homepage.png)
+
 # Aulas
 
 ## Curso ['Introdução ao Django 3: Modelo, Rotas e Views'](https://cursos.alura.com.br/course/fundamentos-django-2)
