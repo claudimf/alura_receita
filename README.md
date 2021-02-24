@@ -2,7 +2,7 @@
 
 👋 Olá, Seja Bem-vindo(a) ao 'Alura Receita'.
 
-# Projeto 'Alura Receita' dos cursos ['Introdução ao Django 3: Modelo, Rotas e Views'](https://cursos.alura.com.br/course/fundamentos-django-2) e ['Integração de modelos no Django 3: Filtros, buscas e admin'](https://cursos.alura.com.br/course/integracao-modelos-django-2):
+# Projeto 'Alura Receita' da [formação de Django](https://cursos.alura.com.br/formacao-django)
 
 ![homepage](https://raw.githubusercontent.com/claudimf/alura_receita/main/homepage.png)
 
@@ -103,6 +103,53 @@
 * Partial e refatoração
 * Faça como eu fiz na aula
 * Template tags
+* O que aprendemos?
+* Conclusão
+* Parabéns
+
+## Curso ['Autenticação no Django 3: formulários, requisições e mensagens'](https://cursos.alura.com.br/course/autenticacao-django-2)
+
+## App de usuários Ver primeiro vídeo
+* Introdução
+* Saudações e ambiente
+* Criando o app de usuários
+* Material do curso
+* Cadastro e login
+* Faça como eu fiz na aula
+* Renderizando as páginas
+* O que aprendemos?
+
+## Formulário no Django
+* Requisições no Django
+* CSRF, token e dados
+* Criando usuários
+* Faça como eu fiz na aula
+* Token CSRF
+* O que aprendemos?
+
+## Autenticação de usuários
+* Login e dashboard
+* Realizando o Login
+* Material do curso
+* Menu, logout e dashboard
+* Faça como eu fiz na aula
+* Menu dinâmico
+* O que aprendemos?
+
+## Formulário de receita
+* Material do curso
+* Criando formulário de receita
+* Dados da requisição
+* Receita de cada usuário
+* Faça como eu fiz na aula
+* Cada receita com seu dono
+* O que aprendemos?
+
+## Refatoração e mensagens
+* Mensagens de sucesso e erro
+* Refatoração e ajustes finais
+* Faça como eu fiz na aula
+* Mensagem não exibida
 * O que aprendemos?
 * Conclusão
 * Parabéns
