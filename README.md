@@ -214,6 +214,72 @@
     <ul>
 </details>
 
+## Curso ['Boas práticas no Django 3: apps, pastas e paginação'](https://cursos.alura.com.br/course/django-2-boas-praticas)
+
+<details>
+    <summary>Deletando objetos e apps no Django Ver primeiro vídeo</summary>
+    <ul>
+        <li>Introdução</li>
+        <li>Saudações e Ambiente</li>
+        <li>Deletando receitas</li>
+        <li>Deletando um app</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>ORM e deletando um registro</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
+
+<details>
+    <summary>Editando e atualizando formulários</summary>
+    <ul>
+        <li>Preparando o ambiente</li>
+        <li>Dados para editar</li>
+        <li>Método para atualizar</li>
+        <li>Atualizando receitas</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Atualizando ou salvando</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
+
+<details>
+    <summary>Melhorando a arquitetura</summary>
+    <ul>
+        <li>Refatorando a pasta template</li>
+        <li>Refatorando as views</li>
+        <li>Modularizando as views</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Mantendo o código organizado</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
+
+<details>
+    <summary>Paginação no Django</summary>
+    <ul>
+        <li>Preparando o ambiente</li>
+        <li>Importando Paginator</li>
+        <li>Preparando o ambiente</li>
+        <li>Paginação no template</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Django paginator</li>
+        <li>Para saber mais: Admin link</li>
+        <li>O que aprendemos?</li>
+    <ul>
+</details>
+
+<details>
+    <summary>Refatoração de código</summary>
+    <ul>
+        <li>Pasta apps e docstring</li>
+        <li>Faça como eu fiz na aula</li>
+        <li>Boa qualidade de código</li>
+        <li>O que aprendemos?</li>
+        <li>Conclusão</li>
+        <li>Parabéns</li>
+    <ul>
+</details>
+
 # Notas das aulas:
 
 * Introdução: Projeto e subindo servidor  
