@@ -18,4 +18,9 @@ urlpatterns = [
         views.edita_receita,
         name='edita_receita'
         ),
+    path(
+        'atualiza_receita',
+        views.atualiza_receita,
+        name='atualiza_receita'
+        ),
 ]
