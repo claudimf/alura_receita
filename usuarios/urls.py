@@ -13,4 +13,9 @@ urlpatterns = [
         views.deleta_receita,
         name='deleta_receita'
         ),
+    path(
+        'edita/<int:receita_id>',
+        views.edita_receita,
+        name='edita_receita'
+        ),
 ]
