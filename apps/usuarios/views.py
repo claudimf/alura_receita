@@ -5,6 +5,7 @@ from receitas.models import Receita
 
 
 def cadastro(request):
+    """Cadastra uma nova pessoa no sistema"""
     if request.method == 'POST':
         nome = request.POST['nome']
         email = request.POST['email']
@@ -31,6 +32,7 @@ def cadastro(request):
 
 
 def login(request):
+    """Realiza o login no sistema"""
     if request.method == 'POST':
         email = request.POST['email']
         senha = request.POST['senha']
@@ -64,7 +66,6 @@ def dashboard(request):
 def logout(request):
     auth.logout(request)
     return redirect('index')
-
 
 
 def campo_vazio(campo):
