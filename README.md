@@ -302,6 +302,46 @@
     python manage.py createsuperuser
     ```
 
+* Deletando um app
+    Recriar o banco, entre no terminal e execute a sequência:
+    ```sh
+    1° Derrubar a aplicação:
+    docker-compose down
+
+    2° Subir o banco:
+    docker-compose up -d db
+
+    3° Listar containeres:
+    docker ps
+
+    4° [dentro do container] - Entrar no container:
+    docker exec -it [nome do db] bash
+
+    5° [dentro do container] - Entrar no banco:
+    psql -U postgres template1
+
+    6° [dentro do container] - Dropar o banco de desenvolvimento:
+    drop database postgres;
+
+    7° [dentro do container] - Criar o banco de desenvolvimento:
+    create database postgres;
+
+    8° Sair do container:
+    Ctrl + D
+
+    9° Entrar na bash:
+    docker-compose run --rm web bash
+
+    10° Rodar migrações:
+    python manage.py migrate
+
+    11° Criar super user
+    python manage.py createsuperuser
+
+    12° Abrir outro terminal e subir a aplicação:
+    docker-compose up
+    ```
+
 ## Sobre o projeto:
 
 ### Permissões de arquivos:
